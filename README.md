@@ -14,9 +14,6 @@
     <a href="https://www.npmjs.com/package/@autodevops/verifier">
       <img alt="npm version" src="https://img.shields.io/npm/v/@autodevops/verifier.svg" />
     </a>
-    <a href="https://github.com/autodevopsai/autodevops/actions">
-      <img alt="Build Status" src="https://github.com/autodevopsai/autodevops/workflows/CI/badge.svg" />
-    </a>
     <a href="https://twitter.com/autodevopsai">
       <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/autodevopsai.svg?style=social&label=Follow" />
     </a>
