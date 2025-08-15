@@ -1,7 +1,7 @@
 # autodevops
 
 <div align="center">
-  <img src="https://x.com/autodevopsai/photo" alt="autodevops logo" width="120" />
+  <img src="[https://x.com/autodevopsai/photo](https://github.com/autodevopsai/autodevops/blob/main/image.png)" alt="autodevops logo" width="120" />
   
   <h3>Your code commits. Our agents handle the rest.</h3>
   
