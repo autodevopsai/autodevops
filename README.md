@@ -224,17 +224,14 @@ export class MyAgent extends BaseAgent {
 
 ## 🗺️ Roadmap
 
-- [ ] VS Code Extension (Q1 2024)
-- [ ] GitHub Action (Q1 2024)  
-- [ ] Custom Agent Marketplace (Q2 2024)
-- [ ] Team Analytics Dashboard (Q2 2024)
-- [ ] Enterprise Features (Q3 2024)
+- [ ] VS Code Extension 
+- [ ] GitHub Action 
+- [ ] Custom Agent Marketplace 
+- [ ] Team Analytics Dashboard
 
 ## 💬 Community
 
 - **Twitter**: [@autodevopsai](https://twitter.com/autodevopsai)
-- **Discord**: [Join our community](https://discord.gg/autodevops)
-- **Blog**: [autodevops.ai/blog](https://autodevops.ai/blog)
 
 ## 📄 License
 
